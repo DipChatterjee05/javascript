@@ -1,0 +1,2 @@
+Document Object Model (DOM):-
+The Document Object Model (DOM) is a programming interface for web documents. It represents the structure of HTML, XHTML and XML documents as a tree like structure, where each node represents a part of the document, such as elements, attributes and text.

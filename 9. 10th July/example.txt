@@ -1,0 +1,19 @@
+1. Event Propagation:-
+In JavaScript, event capturing and event propagation are two phases of event handling that occur during the event flow within the DOM (Document Object Model).
+
+1.1 Event Capturing:-
+During the capturing phase, the event travels from the root of the DOM tree down to the target element. This means that events are first captured by the outermost ancestor element and then propagated downwards to the target element. Event listeners attached during the capturing phase are called before the event reaches the target element.
+
+1.2 Event Bubbling:-
+After the event reaches the target element, it then propagates back up the DOM tree, starting from the target element and moving towards the root. Event listeners attached during the bubbling phase are called after the event reaches the target element.
+
+
+
+2. Value vs Reference Types:-
+In JavaScript, variables can hold two types of values: primitive types and reference types. Understanding the difference between them is crucial for effectively working with data in JavaScript.
+
+2.1 Primitive Types:-
+Primitive types in JavaScript are immutable and include number, string, boolean, null, undefined, and symbol. When you assign a primitive value to a variable, you're copying the actual value into the variable.
+
+2.2 Reference Types:-
+Reference types include objects, arrays, functions, and others. Unlike primitive types, when you assign a reference value to a variable, you're actually storing a reference to the memory location where the value is stored. This means that if you change the value through one variable, it will affect all other variables that reference the same memory location.

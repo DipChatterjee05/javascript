@@ -1,0 +1,17 @@
+1. In JavaScript, the four pillars of Object-Oriented Programming (OOP) are:
+
+Encapsulation:-
+Bundling data and methods that operate on the data into a single unit (object), and restricting access to some of the object's components.
+Bundling data and methods that operate on the data within a single unit, known as a class. This helps in hiding the internal state of an object and only exposing necessary functionalities.
+
+Abstraction:-
+Hiding the complex implementation details and showing only the essential features of the object.
+Hiding complex implementation details and showing only the essential features of the object. This simplifies the interaction with objects by providing a clear interface.
+
+Inheritance:-
+Allowing objects to inherit properties and methods from other objects, enabling code reuse and creating a hierarchy of objects.
+The ability of a class to inherit properties and methods from another class. This promotes code reusability and allows creating a hierarchy of classes where the child class (subclass) can access the features of the parent class (superclass).
+
+Polymorphism:-
+The ability to use the same interface (method name) for different types of objects, allowing methods to behave differently based on the object they are called on.
+The ability of different objects to respond to the same message or method invocation in different ways. This allows objects of different classes to be treated as objects of a common superclass, enhancing flexibility and extensibility in the codebase.
