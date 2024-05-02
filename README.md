@@ -121,4 +121,11 @@
 
 
 # 18th July:-
+	1. JavaScript - Getters & Setters
+	2. JavaScript - Date
+	3. JavaScript - Private Properties & Methods
+	4. JavaScript - Abstraction
+
+
+# 19th July:-
 	
