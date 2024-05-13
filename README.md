@@ -25,3 +25,4 @@
     24. Async Await
     25. This Keyword
     26. Call, Apply & Bind Method In JavaScript
+    27. Prototype & Prototypal Inheritance In Javascript
