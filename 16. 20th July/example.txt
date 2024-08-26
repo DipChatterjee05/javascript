@@ -1,0 +1,10 @@
+# Advantages of Not Extending Built-In Objects:-
+
+1. Avoiding Conflicts:-
+By not extending built-in objects, you avoid potential conflicts with other libraries or future changes in the language.
+
+2. Better Readability and Maintenance:-
+Utility functions or classes can make your code more readable and easier to maintain.
+
+3. Predictable Behavior:-
+Built-in objects behave consistently across different environments and versions of JavaScript when not modified.

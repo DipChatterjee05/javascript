@@ -128,4 +128,32 @@
 
 
 # 19th July:-
-	
+	1. JavaScript - Adding Or Removing Properties
+	2. JavaScript - Enumerating Or Iterate Over Properties Of Objects
+	3. JavaScript - Prototypes
+	4. JavaScript - Prototype Inheritance
+	5. JavaScript - Prototype Chain
+	6. JavaScript - Multilevel Inheritance
+	7. JavaScript - Constructor Prototypes
+
+
+# 20th July:-
+	1. JavaScript - Revision (Type Coercion)
+	2. JavaScript - Revision (Arrays)
+	3. JavaScript - Revision (Functions)
+	4. JavaScript - Revision (parseInt & parseFloat)
+	5. JavaScript - Revision (BitWise Operator)
+	6. JavaScript - Revision (Logical Operator)
+	7. Javascript - Revision (Shot Circuit Evaluation)
+	8. Javascript - Revision (Ternary Operator)
+	9. Javascript - Revision (Hoisting)
+	10. Javascript - ES6 This Keyword
+	11. JavaScript - Call, Apply & Bind
+	12. JavaScript - Avoid Extending Built-In Objects
+	13. JavaScript - Has Own Property
+	14. JavaScript - Iterating Instance & Prototype Members
+	15. JavaScript - ES6 Classes
+
+
+# 24th July:-
+	1. 
