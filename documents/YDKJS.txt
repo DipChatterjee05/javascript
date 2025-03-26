@@ -1,0 +1,13 @@
+The recommended order really for all developers is:
+
+1. Up & Going - if you're experienced already, just glance at this but don't dwell on it, if you're a beginner, take a LOT of time working through it slowly
+
+2. Scope & Closures
+
+3. this & Object Prototypes
+
+4. Types & Grammar
+
+5. Async & Performance
+
+6. ES6 & Beyond

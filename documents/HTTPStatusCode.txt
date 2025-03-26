@@ -1,0 +1,71 @@
+200 OK
+SUCCESS
+Request succeeded ✅
+
+201 Created
+SUCCESS
+Resource created ✅
+
+202 Accepted
+SUCCESS
+Accepted request ✅
+
+200 No Content
+SUCCESS
+Accepted request ✅
+
+301 Moved Permanently
+REDIRECTION
+Accepted request 🔄
+
+302 Found
+REDIRECTION
+Temporarily moved 🔄
+
+304 Not Modified
+REDIRECTION
+Not modified 🔄
+
+400 Bad Request
+ERROR
+Bad request error 🧑‍💻
+
+401 Unauthorized
+ERROR
+Needs authentication 🧑‍💻
+
+403 Forbidden
+ERROR
+Access Forbidden 🧑‍💻
+
+404 Not Found
+ERROR
+Resource Not Found 🧑‍💻
+
+405 Not Allowed
+ERROR
+Method not allowed 🧑‍💻
+
+408 Req Timeout
+ERROR
+Request timed out 🧑‍💻
+
+500 Internal Server Error
+ERROR
+Server error 🔥
+
+501 Not Implemented
+ERROR
+Not implemented 🔥
+
+502 Bad Gateway
+ERROR
+Bad gateway error 🚨
+
+502 Service Unavailable
+ERROR
+Service unavailable 🚨
+
+504 Gateway Timeout
+ERROR
+Gateway Timeout 🚨

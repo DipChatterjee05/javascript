@@ -1,0 +1,33 @@
+1. Grouping: ( )
+
+2. Member Access & Computed Member Access: obj.property & obj["property"]
+
+3. Function Call & Arguments: func()
+
+4. New (Object instantiation): new
+
+5. Unary Operator: + , - , ! , ~ , typeof , void , delete
+
+6. Multiplication & Division: * , / , %
+
+7. Addition & Subtraction: + , -
+
+8. Bitwise Shift: << , >> , >>>
+
+9. Relational: < , > , <= , >= , instanceof , in
+
+10. Equity: == , === , != , !==
+
+11. Bitwise AND: &
+
+12. Bitwise XOR: ^
+
+13. Bitwise OR: |
+
+14. Logical AND: &&
+
+15. Logical OR: ||
+
+16. Conditional Ternary Operator: ? :
+
+17. Assignment: = , += , -= , *= , /= , %= , <<= , >>= , >>>= , &= , ^= , |=
